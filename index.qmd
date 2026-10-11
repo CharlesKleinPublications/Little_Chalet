@@ -10,7 +10,7 @@ format:
 
 
 <!-- =========================
-     COUVERTURE
+     COUVERTURE 
 ========================= -->
 
 ::: {.cover-page .page}
