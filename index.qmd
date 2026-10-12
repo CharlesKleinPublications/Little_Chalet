@@ -16,7 +16,7 @@ format:
 ::: {.cover-page .page}
 ::: {.cover-content}
 ## Little chalet
-### Fragments de famille 
+
 :::
 ::: {.language-choice}
 [FR]{#lang-fr-button}
@@ -34,7 +34,7 @@ format:
 ::: {.text-content}
 ## Le chalet
 
-Fragments de famille 
+Une histoire de famille 
 
 :::
 :::
@@ -43,7 +43,7 @@ Fragments de famille
 ::: {.text-content}
 ## Little chalet
 
-Family fragments
+A family story
 :::
 :::
 :::
