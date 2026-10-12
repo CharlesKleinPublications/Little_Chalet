@@ -306,7 +306,7 @@ alt="Chalet - Chambre du fond - Charles Klein"
      PHOTOGRAPHIE S19
 ========================= -->
 <section class="photo-page page">
-<img src="images/c-klein-19_chalet_derriere_lit.jpg"
+<img src="images/c-klein-19_chalet_derriere_lit2.jpg"
 alt="Chalet - Lit chambre du fond - Charles Klein"
 >
 <div
